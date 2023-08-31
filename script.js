@@ -20,8 +20,8 @@ const geometry = new THREE.PlaneGeometry(5, 3, 100, 60);
 const loader = new THREE.TextureLoader();
 
 loader.load(
-	// Load Texture Locally
-	"/carpet.png",
+	// Load Texture From Git Location
+	"https://raw.githubusercontent.com/SyedRayyanAhmed/Three_js_project/main/dist/carpet.png",
 
 	// onLoad callback
 	function (texture) {
