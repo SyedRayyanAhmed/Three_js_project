@@ -21,7 +21,7 @@ const loader = new THREE.TextureLoader();
 
 loader.load(
 	// Load Texture Locally
-	"carpet.png",
+	"/carpet.png",
 
 	// onLoad callback
 	function (texture) {
