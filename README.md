@@ -8,7 +8,7 @@ Vite: ^4.4.9
 
 ## The Weaving Plane
 Result.<br>
-<img src="/Gif/Screenshot (26).png">
+<img src="/Gif/Carpet_weaving.gif">
 
 ## Last Updated
 30-08-2023
